@@ -576,7 +576,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', end
 ----------------------------------------------------------------------------------------*/
 
 #preloader {
-    background: #fff;
+    /*background: #fff;*/
     top: 0;
     right: 0;
     bottom: 0;
